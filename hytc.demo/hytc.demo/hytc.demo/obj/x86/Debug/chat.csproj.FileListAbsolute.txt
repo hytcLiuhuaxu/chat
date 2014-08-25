@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\hytc.demo\hytc.demo\hytc.demo\bin\Debug\hytc.demo.exe
+C:\Users\Student\Desktop\hytc.demo\hytc.demo\hytc.demo\bin\Debug\hytc.demo.pdb
+C:\Users\Student\Desktop\hytc.demo\hytc.demo\hytc.demo\obj\x86\Debug\hytc.demo.Form1.resources
+C:\Users\Student\Desktop\hytc.demo\hytc.demo\hytc.demo\obj\x86\Debug\hytc.demo.Properties.Resources.resources
+C:\Users\Student\Desktop\hytc.demo\hytc.demo\hytc.demo\obj\x86\Debug\chat.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\hytc.demo\hytc.demo\hytc.demo\obj\x86\Debug\hytc.demo.exe
+C:\Users\Student\Desktop\hytc.demo\hytc.demo\hytc.demo\obj\x86\Debug\hytc.demo.pdb
